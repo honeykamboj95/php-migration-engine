@@ -1,0 +1,21 @@
+{
+    "name": "honeykamboj95/php-migration-engine",
+    "description": "Easy to use migration handler for your Core PHP Project.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Harish Kumar",
+            "email": "harishkumarkamboj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Go\\": "bootstrap/"
+        }
+    }
+}
